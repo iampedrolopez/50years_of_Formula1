@@ -32,16 +32,12 @@ Here is a comparison of the number of wins of all the teams that have participat
 Data from the nationality of all drivers to find the driver factories of the world.
 
 
-## Getting Started
-
-This program is written on python version 3.5
+## To watch the original report please download the .zip file.
 
 
 ## Prerequisites
 
-in main.py file the desired perdiod of extraction must be established.
-
-Please note that the coins.txt file must include the names of the coins to analyze.
+This program is written on python version 3.5
 
 Please make sure you have installed the following libraries in python to run this program:
 
